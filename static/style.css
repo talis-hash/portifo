@@ -1,0 +1,20 @@
+
+    body
+    {
+        background-color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h1
+    {
+        color:brown
+    }
+    button{
+        background-color: blue;
+        border: none;
+        color:white;
+    }
+p
+{
+color:white;
+font-size:18px;
+}
